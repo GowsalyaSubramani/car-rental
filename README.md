@@ -11,9 +11,10 @@
 3. **Start the development server:**
   ```bash
   npm run dev
+```
 
 4. Open the application in your browser
-  
+  ```
     http://localhost:5173
 ```
 
@@ -28,8 +29,8 @@ A responsive car rental application built with React and Vite.
 
 
 ### Car Details Page
-![Car Details Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/car-details.png)
+![Car Details Page](./car-details.png)
 
 ### Payment Page
-![Payment Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/payment.png?raw=true)
+![Payment Page](./payment.png)
 
