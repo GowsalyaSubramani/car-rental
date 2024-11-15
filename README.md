@@ -13,7 +13,7 @@
   npm run dev
 
 4. Open the application in your browser
-   ```bash
+  
     http://localhost:5173
 
 # Car Rental Web Application
