@@ -15,6 +15,7 @@
 4. Open the application in your browser
   
     http://localhost:5173
+```
 
 # Car Rental Web Application
 
