@@ -12,5 +12,22 @@
   ```bash
   npm run dev
 
-4. **Open the application in your browser:**
+4. Open the application in your browser
+   ```bash
     http://localhost:5173
+
+# Car Rental Web Application
+
+A responsive car rental application built with React and Vite.
+
+## Screenshots
+
+### Home Page
+![Home Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/home-page.png)
+
+### Car Details Page
+![Car Details Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/car-details.png)
+
+### Payment Page
+![Payment Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/payment.png)
+
