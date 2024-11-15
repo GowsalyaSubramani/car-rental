@@ -1,4 +1,6 @@
+# Car Rental Web Application
 
+A responsive car rental application built with React and Vite.
 ## Installation and Setup
 
 1. **Clone the repository:**
@@ -19,10 +21,6 @@
    ```
    http://localhost:5173
    ```
-
-# Car Rental Web Application
-
-A responsive car rental application built with React and Vite.
 
 ## Screenshots
 
