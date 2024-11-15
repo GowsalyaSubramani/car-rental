@@ -23,7 +23,7 @@ A responsive car rental application built with React and Vite.
 ## Screenshots
 
 ### Home Page
-![Home Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/home-page.png)
+![Home Page](https://raw.githubuserContent.com/GowsalyaSubramani/car-rental/main/home-page.png)
 
 ### Car Details Page
 ![Car Details Page](https://github.com/GowsalyaSubramani/car-rental/blob/main/car-details.png)
