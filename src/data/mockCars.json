@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "pricePerDay": 50,
+    "pricePerKm": 5,
+    "seaterCapacity": 5,
+    "type": "Sedan",
+    "transmission": "Automatic",
+    "image": "/src/assets/car1.jpg",
+    "description": "A comfortable mid-sized sedan for everyday use."
+  },
+  {
+    "id": 2,
+    "name": "Honda Accord",
+    "pricePerDay": 55,
+    "pricePerKm": 5.5,
+    "seaterCapacity": 5,
+    "type": "Sedan",
+    "transmission": "Manual",
+    "image": "/src/assets/car2.jpg",
+    "description": "A reliable sedan with a smooth drive."
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "pricePerDay": 120,
+    "pricePerKm": 12,
+    "seaterCapacity": 4,
+    "type": "Sports",
+    "transmission": "Automatic",
+    "image": "/src/assets/car3.jpg",
+    "description": "A powerful sports car for a thrilling ride."
+  },
+  
+  {
+      "id": 4,
+      "name": "Chevrolet Camaro",
+      "pricePerDay": 130,
+      "pricePerKm": 13,
+      "seaterCapacity": 4,
+      "type": "Sports",
+      "transmission": "Manual",
+      "image": "/src/assets/car4.jpg",
+      "description": "A bold and aggressive sports car that stands out on the road."
+    },
+    {
+      "id": 5,
+      "name": "Tesla Model 3",
+      "pricePerDay": 150,
+      "pricePerKm": 15,
+      "seaterCapacity": 5,
+      "type": "Electric",
+      "transmission": "Automatic",
+      "image": "/src/assets/car5.jpg",
+      "description": "An electric car with cutting-edge technology and impressive range."
+    },
+    {
+      "id": 6,
+      "name": "BMW 3 Series",
+      "pricePerDay": 85,
+      "pricePerKm": 8.5,
+      "seaterCapacity": 5,
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "image": "/src/assets/car6.jpg",
+      "description": "A luxury sedan that combines comfort and performance."
+    },
+    {
+      "id": 7,
+      "name": "Mercedes-Benz C-Class",
+      "pricePerDay": 95,
+      "pricePerKm": 9.5,
+      "seaterCapacity": 5,
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "image": "/src/assets/car7.jpg",
+      "description": "A premium sedan offering superior style and driving experience."
+    },
+    {
+      "id": 8,
+      "name": "Audi A4",
+      "pricePerDay": 110,
+      "pricePerKm": 11,
+      "seaterCapacity": 5,
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "image": "/src/assets/car8.jpg",
+      "description": "A sleek and stylish sedan with advanced technology and performance."
+    },
+    {
+      "id": 9,
+      "name": "Jeep Wrangler",
+      "pricePerDay": 80,
+      "pricePerKm": 8,
+      "seaterCapacity": 4,
+      "type": "SUV",
+      "transmission": "Manual",
+      "image": "/src/assets/car9.jpg",
+      "description": "An off-road ready SUV with a rugged design."
+    },
+    {
+      "id": 10,
+      "name": "Honda CR-V",
+      "pricePerDay": 75,
+      "pricePerKm": 7.5,
+      "seaterCapacity": 5,
+      "type": "SUV",
+      "transmission": "Automatic",
+      "image": "/src/assets/car10.jpg",
+      "description": "A reliable compact SUV offering comfort and practicality."
+    },
+    {
+      "id": 11,
+      "name": "Nissan Rogue",
+      "pricePerDay": 70,
+      "pricePerKm": 7,
+      "seaterCapacity": 5,
+      "type": "SUV",
+      "transmission": "Automatic",
+      "image": "/src/assets/car11.jpg",
+      "description": "A well-rounded SUV with a spacious interior and great value."
+    },
+    {
+      "id": 12,
+      "name": "Ford Explorer",
+      "pricePerDay": 95,
+      "pricePerKm": 9.5,
+      "seaterCapacity": 7,
+      "type": "SUV",
+      "transmission": "Automatic",
+      "image": "/src/assets/car12.jpg",
+      "description": "A powerful SUV with ample seating and cargo space."
+    },
+    {
+      "id": 13,
+      "name": "Hyundai Sonata",
+      "pricePerDay": 70,
+      "pricePerKm": 7,
+      "seaterCapacity": 5,
+      "type": "Sedan",
+      "transmission": "Automatic",
+      "image": "/src/assets/car13.jpg",
+      "description": "A family-friendly sedan with great fuel efficiency and comfort."
+    }
+  
+  
+]
